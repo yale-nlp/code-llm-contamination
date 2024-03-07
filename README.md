@@ -39,7 +39,7 @@ python dolosmain.py
 # Citation
 
 ```
-@misc{hu23openrlhf,
+@misc{placeholder,
    author = {Martin Riddell and Ansong Ni and Arman Cohan},
    title = {Quantifying Contamination in Evaluating Code Generation Capabilities of Language Models},
    year={2024},
